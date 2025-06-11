@@ -7,3 +7,7 @@
 #### The [data](https://github.com/ryanloveriner/imf_first_crack_search/blob/inlet_bubble_analysis/github_bubble_data.csv) for this study is first-party, collected and managed by the author.
 
 #### Produced with Rmarkdown; you can check out the R code used to perform the statistical tests [here](https://github.com/ryanloveriner/imf_first_crack_search/blob/inlet_bubble_analysis/inlet_bubble_pairwise_analysis.R).
+
+###### Scott Rao's [comparison of air roasters](https://www.scottrao.com/blog/imfvsloring)
+
+###### The [exploratory analysis](https://public.tableau.com/app/profile/ryan.love.riner/viz/IMFRM-60InletTemperatureBubbleExploratoryAnalysis/Dashboard1) referenced in the report
